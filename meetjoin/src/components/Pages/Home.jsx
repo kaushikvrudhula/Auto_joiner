@@ -1,0 +1,1 @@
+/*Contains code for the landing page of the extension */
